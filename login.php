@@ -33,7 +33,8 @@
         
       </section>
       
-      <?php require_once "./layout/footer.php";?>
+      
+      <?php require_once('./assets/layout/footer.php'); ?>
         
       
 

@@ -1,6 +1,4 @@
-<?php
-require_once "./layout/header.php";
-?>
+<?php require_once('./assets/layout/header.php'); ?> 
 
 <head>
 </head>
@@ -40,7 +38,7 @@ require_once "./layout/header.php";
              <li><a href="login.php">Login</a></li>
          </ul>
   </nav>
-  <?php require_once "./layout/footer.php"; ?>
+  <?php require_once('./assets/layout/footer.php'); ?>
 </body>
 
 </html>
